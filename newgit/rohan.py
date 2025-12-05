@@ -1,0 +1,1 @@
+mylist=["hello","rohan"]
